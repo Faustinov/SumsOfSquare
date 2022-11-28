@@ -1,0 +1,7 @@
+C:\Users\Faustin\Downloads\SumsOfSquare\SumsOfSquare\bin\Debug\SumsOfSquare.exe.config
+C:\Users\Faustin\Downloads\SumsOfSquare\SumsOfSquare\bin\Debug\SumsOfSquare.exe
+C:\Users\Faustin\Downloads\SumsOfSquare\SumsOfSquare\bin\Debug\SumsOfSquare.pdb
+C:\Users\Faustin\Downloads\SumsOfSquare\SumsOfSquare\obj\Debug\SumsOfSquare.csproj.AssemblyReference.cache
+C:\Users\Faustin\Downloads\SumsOfSquare\SumsOfSquare\obj\Debug\SumsOfSquare.csproj.CoreCompileInputs.cache
+C:\Users\Faustin\Downloads\SumsOfSquare\SumsOfSquare\obj\Debug\SumsOfSquare.exe
+C:\Users\Faustin\Downloads\SumsOfSquare\SumsOfSquare\obj\Debug\SumsOfSquare.pdb
